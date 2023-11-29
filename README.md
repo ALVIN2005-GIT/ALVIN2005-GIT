@@ -25,7 +25,7 @@ i am still learning BTW aka ""Masih Pemula Puhh"". i learned a lot from the open
 JavaScript   60 mins           51.41 %
 React        30 mins           10.76 %
 Laravel      30 mins           10.54 %
-other
+other        05 mins           07.55 %
 ```
 
 <!--END_SECTION:waka-->
