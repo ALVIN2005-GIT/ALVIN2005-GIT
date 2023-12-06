@@ -48,8 +48,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->        
 🌸  Completed 0 tasks today           
-✅  Completed 10 tasks so far           
-⏳  Longest streak is 2 days
+✅  Completed 25 tasks so far           
+⏳  Longest streak is 2 days 20 hours
 <!-- TODO-IST:END -->
 
 
