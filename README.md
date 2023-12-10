@@ -35,7 +35,7 @@ JavaScript   60 mins           51.41 %
 React        30 mins           10.76 %
 NEXT         30 mins           01.10 %
 Laravel      30 mins           10.54 %
-other        05 mins           07.55 %
+other        05 mins           80.55 %
 ```
 
 <!--END_SECTION:waka-->
