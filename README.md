@@ -32,9 +32,9 @@ i am still learning BTW aka ""Masih Pemula Puhh"". i learned a lot from the open
 ```txt
 
 JavaScript   60 mins           51.41 %
-React        30 mins           10.76 %
+React        30 mins           01.76 %
 NEXT         30 mins           01.10 %
-Laravel      30 mins           10.54 %
+Laravel      30 mins           05.54 %
 other        05 mins           80.55 %
 ```
 
