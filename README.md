@@ -46,8 +46,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->        
-🌸  Completed 0 tasks today           
-✅  Completed 50 tasks so far (Setelah UAS)         
+🌸  Completed 3 tasks today           
+✅  Completed 85 tasks so far (2nd Semester)         
 ⏳  Longest streak is 2 days 20 hours
 <!-- TODO-IST:END -->
 
