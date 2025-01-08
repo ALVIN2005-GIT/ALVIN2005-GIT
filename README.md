@@ -1,4 +1,4 @@
-hi, i'm [ALVIN GRAND PUTRA], a passionate self-taught and also a fourth semester college student for Computer Science full stack web developer And Robotic and IOT Engineer (coming soon) and a Network Engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [ALVIN GRAND PUTRA], a passionate self-taught and also a fourth semester college student for Computer Science full stack, Robotic and IOT Engineer (coming soon) and a Network Engineer from Indonesia. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am still learning BTW aka ""Masih Pemula Puhh"". i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
