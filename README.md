@@ -49,7 +49,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->        
 🌸  Completed 1 tasks today           
-✅  Completed 100 tasks so far (4nd Semester)        
+✅  Completed 100 tasks so far (4th Semester)        
 ⏳  Longest streak is 5 days 20 hours
 <!-- TODO-IST:END -->
 
